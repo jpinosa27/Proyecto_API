@@ -1,7 +1,7 @@
 # Modelo de Reconocimiento de Herramientas
 
 Este repositorio contiene un modelo de reconocimiento de imágenes
-entrenado para clasificar herramientas (por ejemplo: candado, llave inglesa, destornillador, martillo)
+entrenado para clasificar herramientas (por ejemplo: candado, llave, destornillador)
 usando **TensorFlow** y **MobileNetV2** en Google Colab.
 
 ## Contenido
